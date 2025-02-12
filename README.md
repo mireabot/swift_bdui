@@ -8,6 +8,3 @@ This repository delves into the concept of Backend-Driven UI, exploring its adva
 - **Respond Quickly**: Adapt layouts in real-time without requiring app store approval.
 - **Simplify Maintenance**: Focus on reusable components while leaving layout decisions to the backend.
 - **Dynamic UI Updates**: Modify the user interface in real-time by updating server configurations, eliminating the need for app store submissions for UI changes.
-
----
-For more detailed explaination of this approach read substack article [here](https://mireabot.substack.com/p/exploring-backend-driven-ui-in-mobile)
